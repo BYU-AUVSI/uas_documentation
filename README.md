@@ -1,7 +1,10 @@
 # uas_documentation
 The CONTINUOUSLY UPDATED one-stop-shop documentation for the BYU UAS competition team.
 
-## Writing The Docs
+## Read The Docs
+You can read the documentation [directly in your browser](https://github.com/BYU-AUVSI/uas_documentation/blob/master/source/index.md) in GitHub.  
+
+## Write The Docs
 The documentation is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 The pages can be easily updated from the GitHub web interface (simply select
 the file to be updated and click "Edit this file").
