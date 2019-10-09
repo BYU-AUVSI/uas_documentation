@@ -11,9 +11,10 @@ Welcome to BYU UAS Documentation's documentation!
 
    system_overview.md
    quick_start.md
+   field_flight_checklist.md
 
 
-
+.. Commented out below...
 .. Indices and tables
 	==================
 
