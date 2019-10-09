@@ -12,6 +12,10 @@ the file to be updated and click "Edit this file").
 ## Build The Docs
 To build the documentation, clone this repository to your computer. You will 
 need to have Sphinx installed.
+```
+sudo apt-get install texlive-full
+sudo apt install latexmk
+```
 
 The docs have a dependency on Recommonmark. Install it:
 ```
