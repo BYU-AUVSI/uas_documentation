@@ -10,6 +10,11 @@ the file to be updated and click "Edit this file").
 To build the documentation, clone this repository to your computer. You will 
 need to have Sphinx installed.
 
+The docs have a dependency on Recommonmark. Install it:
+```
+pip3 install recommonmark
+```
+
 The following commands all need to be run from the toplevel directory:
 
 For HTML docs, run `make html`.  
