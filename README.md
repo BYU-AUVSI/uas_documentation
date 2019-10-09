@@ -10,21 +10,8 @@ the file to be updated and click "Edit this file").
 To build the documentation, clone this repository to your computer. You will 
 need to have Sphinx installed.
 
-### HTML Docs
-From the toplevel directory, run:
-```
-make html
-```
+The following commands all need to be run from the toplevel directory:
 
-### Latex Docs
-From the toplevel directory, run:
-```
-make latex
-```
-
-### PDF Docs
-From the toplevel directory, run:
-```
-make latexpdf
-```
-You will likely need a latex engine installed on your computer.
+For HTML docs, run `make html`.  
+For Latex docs, run `make latex`.  
+For PDF docs, run `make latexpdf` (you will likely need a latex engine installed on your computer).  
