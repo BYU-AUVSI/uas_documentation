@@ -34,13 +34,21 @@ cd src
 2. Clone the AUVSI repositories into `src`
 There's a bunch of these and honestly this process could probably be automated somehow.
 ```
-git clone https://github.com/byu-auvsi/metis
-git clone https://github.com/byu-auvsi/uav_msgs
-git clone https://github.com/byu-auvsi/interop_pkg
-git clone https://github.com/byu-auvsi/inertial_sense_ros
-git clone https://github.com/byu-magicc/rosflight_plugins
-git clone https://github.com/byu-auvsi/rosflight
-git clone https://github.com/byu-magicc/rosplane
+# Essential
+git clone https://github.com/BYU-AUVSI/uav_msgs.git
+git clone https://github.com/inertialsense/inertial_sense_ros.git
+git clone https://github.com/byu-magicc/rosflight_plugins.git
+git clone https://github.com/BYU-AUVSI/rosflight.git
+git clone https://github.com/BYU-AUVSI/rosplane.git
+
+# Fun to watch
+git clone https://github.com/BYU-AUVSI/ros_groundstation.git
+
+# Useful for more than just flying
+git clone https://github.com/BYU-AUVSI/interop_pkg.git
+
+# Broken, probably shouldn't install
+git clone https://github.com/BYU-AUVSI/metis.git
 ```
 
 *Note:* you may also need to install eigen-stl-containers
