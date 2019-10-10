@@ -46,6 +46,7 @@ git clone https://github.com/BYU-AUVSI/ros_groundstation.git
 
 # Useful for more than just flying
 git clone https://github.com/BYU-AUVSI/interop_pkg.git
+git clone https://github.com/rosflight/rosflight_joy.git
 
 # Broken, probably shouldn't install
 git clone https://github.com/BYU-AUVSI/metis.git
