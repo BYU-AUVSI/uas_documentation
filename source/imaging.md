@@ -1,7 +1,6 @@
 # UNDER CONSTRUCTION! 
 
-# Developer Mode 
-## (For those intending to make changes)
+# Developer Mode (For those intending to make changes)
 
 ## Running the server 
 1. Navigate to the server folder (e.g., 'cd ~/workspace/AUVSI/src/imaging/server')
@@ -10,5 +9,4 @@
 ## Running the client
 1. Type in './.local/bin/img_gui' on the command line
 
-# User Mode
-## (For those intending to just run the client?)
+# User Mode (For those intending to just run the client?)
