@@ -63,7 +63,8 @@ catkin_make
 source devel/setup.bash
 ```
 
-4. Run metis
+<!--4. Run metis
 ```
 roslaunch metis fake_interop.launch
 ```
+-->
